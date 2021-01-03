@@ -18,7 +18,7 @@ const useStyles = makeStyles({
         backgroundColor:'rgba(0,0,0, .6)',
     },
     title:{
-        fontSize:'22px',
+        fontSize:'20px',
         fontWeight:'800',
         fontFamily:'papyrus',
         textShadow: '2px 2px #000000',
